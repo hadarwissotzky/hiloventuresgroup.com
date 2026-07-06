@@ -1,16 +1,16 @@
 # Hi/Lo Ventures Group
 
-> Hi/Lo Ventures Group is a micro-SaaS venture studio that builds, launches, and invests in simple, AI-powered software for small contractors and the trades.
+> Hi/Lo Ventures Group is a venture studio building AI-powered, jobsite-first tools that help up-and-coming contractors communicate better, work smarter, and compete with established firms from day one.
 
-Hi/Lo Ventures Group creates practical, subscription-based software that helps small contractors and tradespeople run their businesses — from first estimate to final invoice. As a venture studio, we build, launch, and invest in these tools ourselves. Our focus is construction and home-maintenance trades, and our products are designed to be simple to adopt and use on the jobsite.
+Hi/Lo Ventures Group builds, invests in, and scales practical, jobsite-first tools that close the communication gap between contractors, crews, and homeowners. The trades run on small, often multilingual teams who make up most of the workforce but are underserved by software built for the office. We design tools that fit how contractors actually work — on the job, not at a desk — around the moments where projects succeed or fail: communication, estimates, invoices, and approvals.
 
 ## Products
-- ezQuote Pro: a voice-powered proposal and invoicing tool built for contractors. Create proposals, invoices, and change orders instantly from the jobsite.
+- ezQuote Pro: a voice-powered proposal and invoicing tool for contractors. Create proposals, invoices, and change orders instantly from the jobsite.
 
 ## Pages
-- [Home](https://hiloventuresgroup.com/): Overview of Hi/Lo Ventures Group.
-- [About](https://hiloventuresgroup.com/about/): What we do and who we serve.
-- [Portfolio](https://hiloventuresgroup.com/portfolio/): Our software products.
+- [Home](https://hiloventuresgroup.com/): What Hi/Lo Ventures Group does.
+- [About](https://hiloventuresgroup.com/about/): Our mission and who we serve.
+- [Portfolio](https://hiloventuresgroup.com/portfolio/): Our tools.
 - [Team](https://hiloventuresgroup.com/team/): The people behind Hi/Lo Ventures Group.
 - [Contact](https://hiloventuresgroup.com/contact-us/): Get in touch.
 
